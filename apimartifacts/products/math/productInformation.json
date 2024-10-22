@@ -1,0 +1,9 @@
+{
+  "properties": {
+    "displayName": "Math",
+    "description": "This product contains APIs for doing important math stuff",
+    "approvalRequired": false,
+    "state": "published",
+    "subscriptionRequired": true
+  }
+}

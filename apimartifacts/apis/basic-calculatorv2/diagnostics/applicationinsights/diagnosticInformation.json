@@ -1,0 +1,41 @@
+{
+  "properties": {
+    "loggerId": "/subscriptions/8bd05b2f-62c5-4def-9869-f0617ebb3970/resourceGroups/RG-MMM-APIM-WS-DEV/providers/Microsoft.ApiManagement/service/apim-mmm-apim-ws-dev/loggers/appi-a2iu7phttjvso",
+    "alwaysLog": "allErrors",
+    "backend": {
+      "request": {
+        "body": {
+          "bytes": 0
+        },
+        "headers": []
+      },
+      "response": {
+        "body": {
+          "bytes": 0
+        },
+        "headers": []
+      }
+    },
+    "frontend": {
+      "request": {
+        "body": {
+          "bytes": 0
+        },
+        "headers": []
+      },
+      "response": {
+        "body": {
+          "bytes": 0
+        },
+        "headers": []
+      }
+    },
+    "httpCorrelationProtocol": "Legacy",
+    "logClientIp": true,
+    "sampling": {
+      "percentage": 100,
+      "samplingType": "fixed"
+    },
+    "verbosity": "information"
+  }
+}

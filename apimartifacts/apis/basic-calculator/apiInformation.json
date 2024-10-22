@@ -1,0 +1,22 @@
+{
+  "properties": {
+    "path": "calc",
+    "apiRevision": "2",
+    "apiRevisionDescription": "Changing some stuff",
+    "apiVersion": "2024-10-21",
+    "apiVersionSetId": "/subscriptions/8bd05b2f-62c5-4def-9869-f0617ebb3970/resourceGroups/RG-MMM-APIM-WS-DEV/providers/Microsoft.ApiManagement/service/apim-mmm-apim-ws-dev/apiVersionSets/671680ecf835a801d23712b0",
+    "authenticationSettings": {},
+    "description": "Arithmetics is just a call away!",
+    "isCurrent": true,
+    "displayName": "Basic Calculator",
+    "protocols": [
+      "https"
+    ],
+    "serviceUrl": "http://calcapi.cloudapp.net/api",
+    "subscriptionKeyParameterNames": {
+      "header": "Ocp-Apim-Subscription-Key",
+      "query": "subscription-key"
+    },
+    "subscriptionRequired": true
+  }
+}
