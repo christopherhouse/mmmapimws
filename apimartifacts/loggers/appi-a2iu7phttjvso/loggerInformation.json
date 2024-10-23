@@ -1,0 +1,10 @@
+{
+  "properties": {
+    "loggerType": "applicationInsights",
+    "credentials": {
+      "instrumentationKey": "{{Logger-Credentials--6716c1e746346116c4345b54}}"
+    },
+    "isBuffered": true,
+    "resourceId": "/subscriptions/8bd05b2f-62c5-4def-9869-f0617ebb3970/resourceGroups/rg-azrelweb-dev-eastus2-application/providers/Microsoft.Insights/components/appi-a2iu7phttjvso"
+  }
+}

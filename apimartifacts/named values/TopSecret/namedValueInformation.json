@@ -1,0 +1,11 @@
+{
+  "properties": {
+    "displayName": "TopSecret",
+    "keyVault": {
+      "identityClientId": "acc2d019-6c91-478c-ad70-ddcb3bf154f9",
+      "secretIdentifier": "https://kv-mmm-apim-ws-dev.vault.azure.net/secrets/TopSecret"
+    },
+    "secret": true,
+    "tags": []
+  }
+}
