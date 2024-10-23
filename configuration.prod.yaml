@@ -1,13 +1,13 @@
 apimServiceName: apim-mmm-apim-ws-prod
 namedValues:
-- TopSecret:
+- name: TopSecret
   properties:
     keyVault:
       identityClientId: e6975a9b-120e-4020-a352-1bef829af9fb
       secretIdentifier: https://kv-mmm-apim-ws-prod.vault.azure.net/secrets/TopSecret
-- 6716c1e746346116c4345b53:
+- name: 6716c1e746346116c4345b53
   properties:
     value: '{#appInsightsKey1}'
-- 67155e8646346116c43456ad:
+- name: 67155e8646346116c43456add
   properties:
     value: '{#appInsightsKey2}'
