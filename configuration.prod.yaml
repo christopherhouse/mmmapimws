@@ -8,6 +8,6 @@ namedValues:
 - name: 6716c1e746346116c4345b53
   properties:
     value: '{#appInsightsKey1#}'
-- name: 67155e8646346116c43456add
+- name: 67155e8646346116c43456ad
   properties:
     value: '{#appInsightsKey2#}'
