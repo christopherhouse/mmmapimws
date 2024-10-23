@@ -3,7 +3,7 @@ namedValues:
 - name: TopSecret
   properties:
     keyVault:
-      identityClientId: e6975a9b-120e-4020-a352-1bef829af9fb
+      identityClientId: c96aa7c5-4222-40df-84f5-1696f2116d75
       secretIdentifier: https://kv-mmm-apim-ws-prod.vault.azure.net/secrets/TopSecret
 - name: 6716c1e746346116c4345b53
   properties:
