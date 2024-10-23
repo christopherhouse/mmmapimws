@@ -7,7 +7,7 @@ namedValues:
       secretIdentifier: https://kv-mmm-apim-ws-prod.vault.azure.net/secrets/TopSecret
 - name: 6716c1e746346116c4345b53
   properties:
-    value: '{#appInsightsKey1#}'
+    value: '{#APPINSIGHTSKEY1#}'
 - name: 67155e8646346116c43456add
   properties:
-    value: '{#appInsightsKey2#}'
+    value: '{#APPINSIGHTSKEY2#}'
